@@ -1,13 +1,15 @@
 # Hi, I'm Aditi Verma 👋
 
-Computer Science Student at VIT with an interest in Backend Development, Software Engineering, and Problem Solving.
+Final Year Computer Science student at Vellore Institute of Technology, passionate about Backend Development, Software Engineering, and Problem Solving.
 
-## 🚀 Currently Learning
+Currently building backend applications with Java, Spring Boot, and MySQL while strengthening my Data Structures & Algorithms and System Design skills.
 
-* Data Structures & Algorithms
-* Java Backend Development
-* Spring Boot
-* System Design
+## 🎯 Current Focus
+
+* Solving DSA problems consistently
+* Building Spring Boot backend projects
+* Learning System Design fundamentals
+* Preparing for Software Engineering internships
 
 ## 🛠️ Tech Stack
 
@@ -32,19 +34,32 @@ Computer Science Student at VIT with an interest in Backend Development, Softwar
 * Maven
 * Postman
 
-## 📌 Featured Projects
+### Concepts
+
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms
+* REST API Development
+* Database Design
+
+## 🚀 Featured Projects
 
 ### 🔗 URL Shortener
 
-A Spring Boot and MySQL based application that converts long URLs into short, shareable links.
+A URL shortening service built using Spring Boot and MySQL with persistent URL storage and redirection.
+
+Repository: https://github.com/aditi2805/url-shortener
 
 ### 💰 Wallet System
 
-A backend wallet application implementing account management and transaction handling.
+A backend wallet application supporting account management and transaction operations.
+
+Repository: https://github.com/aditi2805/wallet-system-machine-coding
 
 ### 📊 GitHub Profile Analyzer
 
-A tool that analyzes GitHub profiles and provides repository and developer insights using the GitHub API.
+A GitHub analytics tool that fetches repositories and developer insights using the GitHub API.
+
+Repository: https://github.com/aditi2805/github-profile-analyzer
 
 ## 📫 Connect With Me
 

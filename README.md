@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8A2BE2&height=180&section=header&text=Aditi%20Verma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 # Hi, I'm Aditi Verma 👋
 
@@ -34,7 +33,7 @@
 
 ---
 
-# 💫 About Me
+# 🧠 About Me
 
 I'm a **B.Tech Computer Science** student at **VIT Bhopal University** with a strong interest in **Backend Development** and **Software Engineering**.
 
@@ -188,10 +187,7 @@ goal:
 
 <div align="center">
 
-### 💜 *"Build. Learn. Improve. Repeat."*
 
-⭐ Thanks for visiting my profile!
+⭐ Improving!
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:6C63FF&height=120&section=footer"/>

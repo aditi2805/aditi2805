@@ -129,7 +129,7 @@ Developed backend APIs for the User Watchlist module during my internship, enabl
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditi2805&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditi2805&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 

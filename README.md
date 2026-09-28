@@ -125,18 +125,6 @@ Developed backend APIs for the User Watchlist module during my internship, enabl
 
 ---
 
-# 📈 GitHub Contributions
-
-<div align="center">
-
-<a href="https://github.com/aditi2805">
-<img src="https://github-readme-stats.vercel.app/api?username=aditi2805&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-</a>
-
-</div>
-
----
-
 # 🌱 Current Focus
 
 ```yaml

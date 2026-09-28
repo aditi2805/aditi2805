@@ -1,15 +1,12 @@
 <div align="center">
 
-
 # Hi, I'm Aditi Verma 👋
 
-### Backend Developer in Training · Java Developer · CSE @ VIT Bhopal
+### Backend Developer · Java & Spring Boot · CSE @ VIT Bhopal
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Building+Real-World+Backend+Applications;Java+Developer;Backend+Engineering+Learner;Spring+Boot+%7C+MySQL;Data+Structures+%26+Algorithms;Open+to+Backend+%26+SDE+Internships" />
 
 <br>
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/aditi2805/">
 <img src="https://img.shields.io/badge/LinkedIn-Aditi_Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -29,27 +26,25 @@
 
 </div>
 
-</div>
+---
+
+## 🧠 About Me
+
+I'm a **B.Tech Computer Science** student at **VIT Bhopal University**, focused on **Backend Development** and **Software Engineering**.
+
+I enjoy building backend applications using **Java, Spring Boot, REST APIs, and MySQL**, while strengthening my problem-solving skills through **Data Structures & Algorithms**.
+
+* ☕ Focused on **Java Backend Development**
+* ⚙️ Building applications with **Spring Boot & REST APIs**
+* 🗄️ Working with **MySQL & SQL**
+* 📐 Practicing **Data Structures & Algorithms**
+* 💼 Former **Software Development Intern at BlueStock Fintech**
+* 🌱 Currently learning **System Design, Redis & Docker**
+* 🚀 Open to **Backend & Software Engineering Opportunities**
 
 ---
 
-# 🧠 About Me
-
-I'm a **B.Tech Computer Science** student at **VIT Bhopal University** with a strong interest in **Backend Development** and **Software Engineering**.
-
-I enjoy building real-world backend applications using **Java**, **Spring Boot**, and **MySQL**, while continuously strengthening my problem-solving skills through **Data Structures & Algorithms**. My goal is to design reliable, scalable software and develop into a backend engineer who builds systems that make an impact.
-
-- ☕ Passionate about **Backend Development**
-- 💻 Building applications using **Java, Spring Boot & MySQL**
-- 📐 Consistent **Data Structures & Algorithms** practitioner
-- 🌱 Currently learning **System Design, Redis & Docker**
-- 💼 Former **Software Development Intern** at **BlueStock Fintech**
-- 🚀 Interested in **Backend Engineering & Software Development**
-- 📬 Open to **Software Engineering & Backend Internship Opportunities**
-
----
-
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -69,7 +64,7 @@ I enjoy building real-world backend applications using **Java**, **Spring Boot**
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-### 🧰 Tools & Technologies
+### 🧰 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,idea"/>
@@ -77,41 +72,47 @@ I enjoy building real-world backend applications using **Java**, **Spring Boot**
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🔗 URL Shortener
+### 🔗 URL Shortener
 
 **Java • Spring Boot • MySQL**
 
-A backend service that generates unique short URLs, manages URL mappings, and stores data persistently using MySQL.
+Backend application for creating and resolving short URLs with persistent MySQL storage.
+
+🔗 [Repository](https://github.com/aditi2805/url-shortener)
 
 ---
 
-## 💰 Wallet System
+### 💰 Wallet System
 
 **Java**
 
-A machine coding project implementing wallet creation, balance management, fund transfers, transaction history, and idempotent transaction handling.
+Machine-coding project implementing wallet creation, balance management, fund transfers, transaction history, and idempotent transaction handling.
+
+🔗 [Repository](https://github.com/aditi2805/wallet-system-machine-coding)
 
 ---
 
-## 📊 GitHub Profile Analyzer
+### 📊 GitHub Profile Analyzer
 
 **Node.js • Express • MySQL**
 
-REST API that analyzes GitHub profiles using the GitHub API and stores developer insights in MySQL.
+REST API that analyzes GitHub profiles using the GitHub API and stores developer information in MySQL.
+
+🔗 [Repository](https://github.com/aditi2805/github-profile-analyzer)
 
 ---
 
-## ⭐ User Watchlist
+### ⭐ User Watchlist
 
-**Spring Boot**
+**Java • Spring Boot • REST APIs**
 
-Developed backend APIs for the User Watchlist module during my internship, enabling users to manage and track their selected financial assets efficiently.
+Developed backend APIs for a User Watchlist module during my internship, enabling users to manage and track selected financial assets.
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -125,59 +126,36 @@ Developed backend APIs for the User Watchlist module during my internship, enabl
 
 ---
 
-# 🌱 Current Focus
+## 🌱 Currently Learning
 
-```yaml
-learning:
-  - Spring Boot
-  - System Design
-  - Redis
-  - Docker
-  - Backend Architecture
-
-practicing:
-  - Data Structures & Algorithms
-  - SQL
-  - Problem Solving
-
-building:
-  - Backend Applications
-  - Java Projects
-  - Full-Stack Projects
-
-goal:
-  - Become a Backend Software Engineer
-```
+* Spring Boot & REST API Development
+* SQL & Database Design
+* Backend Architecture
+* System Design Fundamentals
+* Docker & Redis
 
 ---
 
-# 💻 Coding Profiles
-
-<p>
+## 💻 Coding Profiles
 
 <a href="https://leetcode.com/u/aditi2805/">
 <img src="https://img.shields.io/badge/LeetCode-aditi2805-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-</p>
-
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-📧 **Email:** **aditiverma2805@gmail.com**
+📧 **Email:** [aditiverma2805@gmail.com](mailto:aditiverma2805@gmail.com)
 
-💼 **LinkedIn:** **https://www.linkedin.com/in/aditi2805/**
+💼 **LinkedIn:** [linkedin.com/in/aditi2805](https://www.linkedin.com/in/aditi2805/)
 
-💻 **GitHub:** **https://github.com/aditi2805**
-
-📱 **Phone:** **+91 95693 65609**
+💻 **GitHub:** [github.com/aditi2805](https://github.com/aditi2805)
 
 ---
 
 <div align="center">
 
-
-⭐ Improving!
+⭐ Always learning. Always building.
 
 </div>
